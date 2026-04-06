@@ -1,0 +1,10 @@
+{
+  "table": "clickstream_events",
+  "timestamp": "2026-04-06T21:24:28.090756",
+  "bronze_count": 200000,
+  "silver_count": 200000,
+  "row_ratio": 1.0,
+  "pk_nulls": 0,
+  "passed": true,
+  "issues": []
+}

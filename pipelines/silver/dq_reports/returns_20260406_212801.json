@@ -1,0 +1,10 @@
+{
+  "table": "returns",
+  "timestamp": "2026-04-06T21:28:01.040772",
+  "bronze_count": 8000,
+  "silver_count": 8000,
+  "row_ratio": 1.0,
+  "pk_nulls": 0,
+  "passed": true,
+  "issues": []
+}

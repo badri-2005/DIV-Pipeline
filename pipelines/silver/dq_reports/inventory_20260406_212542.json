@@ -1,0 +1,10 @@
+{
+  "table": "inventory",
+  "timestamp": "2026-04-06T21:25:42.523425",
+  "bronze_count": 5000,
+  "silver_count": 5000,
+  "row_ratio": 1.0,
+  "pk_nulls": 0,
+  "passed": true,
+  "issues": []
+}

@@ -1,0 +1,10 @@
+{
+  "table": "orders",
+  "timestamp": "2026-04-06T21:23:49.317165",
+  "bronze_count": 70000,
+  "silver_count": 70000,
+  "row_ratio": 1.0,
+  "pk_nulls": 0,
+  "passed": true,
+  "issues": []
+}

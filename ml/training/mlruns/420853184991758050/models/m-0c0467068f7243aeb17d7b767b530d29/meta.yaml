@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data-Pipeline/ml/training/mlruns/420853184991758050/models/m-0c0467068f7243aeb17d7b767b530d29/artifacts
+creation_timestamp: 1775578809138
+experiment_id: '420853184991758050'
+last_updated_timestamp: 1775578815488
+model_id: m-0c0467068f7243aeb17d7b767b530d29
+model_type: null
+name: xgboost_model
+source_run_id: 55d8a8b897b4435db3d0d4100375124a
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Data-Pipeline/ml/training/mlruns/420853184991758050/ea75dd5593e64cd39ace76d95bd68bdc/artifacts
+end_time: 1775578798475
+entry_point_name: ''
+experiment_id: '420853184991758050'
+lifecycle_stage: active
+run_id: ea75dd5593e64cd39ace76d95bd68bdc
+run_name: logistic_regression_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775578788454
+status: 3
+tags: []
+user_id: hp

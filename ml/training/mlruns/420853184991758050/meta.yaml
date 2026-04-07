@@ -1,0 +1,7 @@
+artifact_location: file:///D:/Data-Pipeline/ml/training/mlruns/420853184991758050
+creation_time: 1775578787516
+experiment_id: '420853184991758050'
+last_update_time: 1775578787516
+lifecycle_stage: active
+name: ecommerce_churn_prediction
+workspace: default

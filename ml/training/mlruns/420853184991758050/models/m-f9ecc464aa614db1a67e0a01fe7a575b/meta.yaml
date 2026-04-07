@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Data-Pipeline/ml/training/mlruns/420853184991758050/models/m-f9ecc464aa614db1a67e0a01fe7a575b/artifacts
+creation_timestamp: 1775578788535
+experiment_id: '420853184991758050'
+last_updated_timestamp: 1775578798463
+model_id: m-f9ecc464aa614db1a67e0a01fe7a575b
+model_type: null
+name: logistic_regression
+source_run_id: ea75dd5593e64cd39ace76d95bd68bdc
+status: 2
+status_message: null

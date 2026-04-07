@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Data-Pipeline/ml/training/mlruns/420853184991758050/55d8a8b897b4435db3d0d4100375124a/artifacts
+end_time: 1775578816272
+entry_point_name: ''
+experiment_id: '420853184991758050'
+lifecycle_stage: active
+run_id: 55d8a8b897b4435db3d0d4100375124a
+run_name: xgboost_optuna
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775578808885
+status: 3
+tags: []
+user_id: hp
